@@ -1,4 +1,3 @@
-# Blockchain Simulation using Metamask
+# Blockchain Simulation
 
-Hello there, this is a private repo for practising my cpp skills using vim.
-It is a terminal based editor with neat quirks.
+A simple interactive blockchain simulator using the Ganche Framework of the Truffle suite.  
